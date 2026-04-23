@@ -1,0 +1,8 @@
+{
+    "search.exclude": {
+        "https://github.com/Alishahryar1/free-claude-code.git": true
+    },
+    "files.exclude": {
+        "https://github.com/Alishahryar1/free-claude-code.git": true
+    }
+}
